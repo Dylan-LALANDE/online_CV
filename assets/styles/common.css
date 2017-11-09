@@ -1,0 +1,66 @@
+
+
+header
+{
+    color: #FFF;
+    position: relative;
+   background: #212F3D;
+
+}
+
+img
+{
+    padding: 10px;
+}
+
+div
+{
+ margin: 10px;    
+}
+
+div img
+{
+    float: left;
+}
+
+
+.info_perso
+{
+    color: #010056;
+    position: relative;
+}
+
+div.info_perso
+{
+   
+  margin-left: 255px;
+}
+
+aside
+{
+    margin: 10px;
+}
+
+.competences
+{
+    list-style: none;
+}
+
+
+
+div.competences
+{
+    margin: 10px;
+}
+
+
+footer {
+    padding: 15px 0;
+    background: #212F3D;
+}
+
+footer p {
+    color: #FFF;
+    font-size: 14px;
+    text-align: center;
+}
