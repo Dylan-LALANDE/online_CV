@@ -1,5 +1,4 @@
 
-
 header
 {
     color: #FFF;
@@ -13,15 +12,11 @@ img
     padding: 10px;
 }
 
-div
-{
- margin: 10px;    
-}
-
 div img
 {
     float: left;
 }
+
 
 
 .info_perso
@@ -36,27 +31,79 @@ div.info_perso
   margin-left: 255px;
 }
 
+h3.exp
+{
+    color: #FFF;
+    background: #212F3D;
+    font-size: 20px;
+    height: 25px;
+    width: 150px;
+    padding: 10px;
+}
+
+h3.formation
+{
+    color: #FFF;
+    background: #212F3D;
+    font-size: 20px;
+    height: 25px;
+    width: 150px;
+    padding: 10px;
+}
+
+h3.loisirs
+{
+    color: #FFF;
+    background: #212F3D;
+    font-size: 20px;
+    height: 25px;
+    width: 150px;
+    padding: 10px;
+}
+
 aside
 {
     margin: 10px;
+    float: left;
+    margin-bottom: 20px;
 }
 
 .competences
 {
     list-style: none;
+    padding-left: 200px;
+    position: relative;
 }
 
 
 
 div.competences
 {
-    margin: 10px;
+    padding-left: 200px;
+    padding-top: 30px; 
+}
+
+h3.competences
+{
+   color: #FFF;
+    background: #212F3D;
+    font-size: 20px;
+    height: 25px;
+    width: 250px;
+    padding: 10px;  
+}
+
+p.competences
+{
+    padding-left: 0px;
 }
 
 
 footer {
     padding: 15px 0;
     background: #212F3D;
+    float: inherit;
+    clear: both;
 }
 
 footer p {
