@@ -13,6 +13,8 @@ header
    color: #FFF;
 }
 
+
+
 img
 {
     padding: 10px;
@@ -23,13 +25,36 @@ div img
     float: left;
 }
 
+#mail
+{
+    padding-right: 10px;
+}
 
+#phone
+{
+    padding-right: 10px;
+}
+
+#adresse
+{
+    padding-right: 10px;
+}
+
+#car
+{
+    padding-right: 10px;
+}
+
+#ville
+{
+    padding-right: 10px;
+}
 
 .info_perso
 {  
     position: relative;
     margin: 10px;
-   
+ 
 }
 
 div.info_perso
@@ -41,62 +66,37 @@ div.info_perso
 h3.exp
 {
     color: #FFF;
-    background: #060728;
-    font-size: 20px;
+    
+    font-size: 30px;
     height: 25px;
-    width: 150px;
+    width: 300px;
     padding: 10px;
 }
 
-h3.exp:hover
-{
-    color: #FFF;
-    background: #000344;
-    font-size: 20px;
-    height: 25px;
-    width: 150px;
-    padding: 10px;
-}
 
 h3.formation
 {
     color: #FFF;
-    background: #060728;
-    font-size: 20px;
+   
+    font-size: 30px;
     height: 25px;
-    width: 150px;
+    width: 300px;
     padding: 10px;
 }
 
-h3.formation:hover
-{
-    color: #FFF;
-    background: #000344;
-    font-size: 20px;
-    height: 25px;
-    width: 150px;
-    padding: 10px;
-}
+
 
 h3.loisirs
 {
     color: #FFF;
-    background: #060728;
-    font-size: 20px;
+   
+    font-size: 30px;
     height: 25px;
-    width: 150px;
+    width: 300px;
     padding: 10px;
 }
 
-h3.loisirs:hover
-{
-    color: #FFF;
-    background: #000344;
-    font-size: 20px;
-    height: 25px;
-    width: 150px;
-    padding: 10px;
-}
+
 
 aside
 {
@@ -124,22 +124,13 @@ div.competences
 h3.competences
 {
    color: #FFF;
-    background: #060728;
-    font-size: 20px;
+    font-size: 40px;
     height: 25px;
-    width: 270px;
+    width: 700px;
     padding: 10px;  
 }
 
-h3.competences:hover
-{
-   color: #FFF;
-    background: #000344;
-    font-size: 20px;
-    height: 25px;
-    width: 270px;
-    padding: 10px;  
-}
+
 
 
 p.competences
