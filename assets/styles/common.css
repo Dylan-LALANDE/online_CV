@@ -26,9 +26,10 @@ div img
 
 
 .info_perso
-{
-    
+{  
     position: relative;
+    margin: 10px;
+   
 }
 
 div.info_perso
