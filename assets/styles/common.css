@@ -4,6 +4,7 @@ header
     color: #FFF;
     position: relative;
    background: #060728;
+    
 }
 
  *
@@ -164,4 +165,6 @@ footer p {
 {
     background-image: url(../img/back-test.jpg);
     background-position: top;
+    
+    
 }
